@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Jain 👋
 
-## Data Analyst | Power BI Developer | Python Enthusiast
+## Data Analyst | Power BI Developer | Mis Execution | Business Analyst
 
 I am passionate about transforming raw data into meaningful insights and interactive dashboards. I enjoy solving real-world business problems using data analytics, visualization and automation tools.
 
@@ -9,10 +9,10 @@ I am passionate about transforming raw data into meaningful insights and interac
 # 🚀 About Me
 
 * 📊 Skilled in Data Analysis & Data Visualization
-* 📈 Creating interactive dashboards using Power BI
+* 📈 Building interactive dashboards using Power BI
 * 🐍 Working with Python libraries like Pandas, NumPy, Matplotlib & Seaborn
 * 🗄️ SQL for data querying and analysis
-* 📚 Currently improving my problem-solving and analytics skills
+* 📚 Continuously improving analytical & problem-solving skills
 * 💡 Interested in Business Intelligence and Data-Driven Decision Making
 
 ---
@@ -33,72 +33,88 @@ I am passionate about transforming raw data into meaningful insights and interac
 * Power BI
 * Excel
 
-## Other Tools
+## Tools & Platforms
 
 * Git
 * GitHub
 * Jupyter Notebook
 * VS Code
-* Google Collab
+* Google Colab
 
 ---
 
 # 📂 Featured Projects
 
-## 📊 Sales Dashboard - Power BI
+## 📊 Power BI Business Dashboard
 
-Built an interactive sales dashboard to track revenue, profit, customer insights, and regional performance.
+Built interactive dashboards to track sales, revenue, profit, customer insights and business performance.
 
-### Key Features:
+### Features
 
 * KPI Tracking
 * Revenue & Profit Analysis
 * Interactive Filters
-* Region-wise Performance Insights
+* Business Insights
+* Dynamic Visualizations
 
 ---
 
-## 📈 Data Analysis using Python
+## 🐍 Python Data Analysis Projects
 
-Performed data cleaning, analysis, and visualization using Python.
+Performed real-world data cleaning, analysis and visualization using Python.
 
-### Tools Used:
+### Tools Used
 
 * Pandas
+* NumPy
 * Matplotlib
 * Seaborn
 
-### Key Insights:
+### Analysis Performed
 
 * Trend Analysis
-* Customer Behavior Analysis
-* Business Performance Metrics
+* Customer Insights
+* Business Performance Tracking
+* Data Visualization
 
 ---
 
-## 🗃️ SQL Business Queries
+## 🗃️ SQL Problem Solving
 
-Solved real-world SQL problems using joins, aggregate functions, subqueries, and window functions.
+Solved real-world SQL business problems using:
+
+* Joins
+* Aggregate Functions
+* Subqueries
+* Window Functions
 
 ---
 
 # 📚 Currently Learning
 
 * Advanced Power BI
-* DAX & Power Query
-* Data Storytelling
 * Machine Learning Basics
+
+---
+
+# 📈 GitHub Stats
+
+* 🚀 Uploading real-world Data Analytics projects regularly
+* 📊 Focused on Business Intelligence & Dashboarding
+* 💻 Practicing Python, SQL & Power BI daily
 
 ---
 
 # 📫 Connect With Me
 
-* GitHub: Add Your GitHub Link Here
-* LinkedIn: Add Your LinkedIn Link Here
-* Email: Add Your Email Here
+* GitHub: [RohitJain173 GitHub Profile](https://github.com/RohitJain173/RohitJain173?utm_source=chatgpt.com)
+* LinkedIn: Add Your LinkedIn Link
+* Email: Add Your Email
 
 ---
 
 # ⭐ Fun Fact
 
-I enjoy solving business problems through dashboards and data storytelling.
+I enjoy solving business problems through dashboards, analytics and data storytelling.
+
+

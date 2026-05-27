@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Jain 👋
 
-## Data Analyst | Power BI Developer | Mis Execution | Business Analyst
+## Data Analyst | Power BI Developer | Mis Executive | Business Analyst
 
 I am passionate about transforming raw data into meaningful insights and interactive dashboards. I enjoy solving real-world business problems using data analytics, visualization and automation tools.
 
